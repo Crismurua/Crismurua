@@ -1,5 +1,5 @@
 <div align="center">
-[https://rishavanand.github.io/static/images/greetings.gif](https://pin.it/4BYb34L)
+<img src="https://pin.it/4BYb34L" alt='gif' />
 </div>  
 
 ## Hola, [soy Cristian Murua!](https://www.linkedin.com/in/cristian-murua-739bb6142/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
