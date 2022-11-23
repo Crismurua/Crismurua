@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Crismurua/Crismurua/blob/main/%F0%9F%92%A5%F0%9D%98%BF%F0%9D%98%BC%F0%9D%99%88%F0%9D%99%84%F0%9D%98%BC%F0%9D%99%89%20%F0%9D%99%92%F0%9D%98%BC%F0%9D%99%94%F0%9D%99%89%F0%9D%99%80%20%F0%9D%99%8A%F0%9D%99%89%F0%9D%99%80-%F0%9D%99%8E%F0%9D%99%83%F0%9D%99%8A%F0%9D%99%8F%F0%9D%99%8E%F0%9F%92%A5.gif" alt='gif' style='height: 300px' />
+<img src="https://github.com/Crismurua/Crismurua/blob/main/%F0%9F%92%A5%F0%9D%98%BF%F0%9D%98%BC%F0%9D%99%88%F0%9D%99%84%F0%9D%98%BC%F0%9D%99%89%20%F0%9D%99%92%F0%9D%98%BC%F0%9D%99%94%F0%9D%99%89%F0%9D%99%80%20%F0%9D%99%8A%F0%9D%99%89%F0%9D%99%80-%F0%9D%99%8E%F0%9D%99%83%F0%9D%99%8A%F0%9D%99%8F%F0%9D%99%8E%F0%9F%92%A5.gif" alt='gif' style='height: 300px' align='right'/>
 </div>  
 
 ## Hola, [soy Cristian Murua!](https://www.linkedin.com/in/cristian-murua-739bb6142/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
