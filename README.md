@@ -17,6 +17,12 @@
   
 
 - ⚡ Dato curioso: () => {} > function() {}  
+
+Acerca de mi:
+
+Soy una persona que comenzó su carrera como Full Stack Web Developer durante la pandemia, estudiando e investigando de manera autodidacta.
+Creo que la capacidad de superación es una de las cualidades más importantes para cualquier trabajador al igual que sus valores. Me considero capaz de mejorar y aprender a diario, de cada una de las oportunidades que se me presenten y aportar al equipo tanto mi habilidad como mi entusiasmo y mi compañerismo.
+Busco un empleo que confíe en mi capacidad y me de la posibilidades de crecer profesionalmente.
   
 
 
