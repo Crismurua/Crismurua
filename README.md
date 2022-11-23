@@ -7,6 +7,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-murua-739bb6142)](https://www.linkedin.com/in/cristian-murua-739bb6142) [![Gmail Badge](https://img.shields.io/badge/-cristianmurua1995-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianmurua1995@gmail.com)](mailto:cristianmurua1995@gmail.com) 
 
 
+ 🔭 I’m currently working on [Dogs-PI](https://github.com/Crismurua/Dogs-PI)  
+  
+
+- 🌱 Actualmente estoy aprendiendo Python  
+  
+
+- ❓ Preguntame todo lo relacionado con el desarrollo Full Stack  
+  
+
+- ⚡ Dato curioso: () => {} > function() {}  
+  
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
