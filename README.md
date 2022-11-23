@@ -1,4 +1,8 @@
-## Hola, [soy Cristian Murua!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+## Hola, [soy Cristian Murua!](https://www.linkedin.com/in/cristian-murua-739bb6142/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-murua-739bb6142)](https://www.linkedin.com/in/cristian-murua-739bb6142) [![Gmail Badge](https://img.shields.io/badge/-cristianmurua1995-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianmurua1995@gmail.com)](mailto:cristianmurua1995@gmail.com) 
 
