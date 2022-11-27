@@ -76,6 +76,7 @@ Busco un empleo que confíe en mi capacidad y me de la posibilidades de crecer p
 ![Cristian's github stats](https://github-readme-stats.vercel.app/api?username=Crismurua&show_icons=true&hide=[%22issues%22])
 
 Mi Portafolio! -- <a href="https://portfolio-nu-liart.vercel.app/" target="_blank">AQUI</a>
+Mi CV! -- <a href="https://docs.google.com/document/d/1yL_twmK3nqlaTvPGXY9cQzvMMJnJbXBo/edit?usp=sharing&ouid=103651053436730232479&rtpof=true&sd=true" target="_blank">AQUI</a>
 
 
 
