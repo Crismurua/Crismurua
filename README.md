@@ -10,7 +10,7 @@
  🔭 Actualmente estoy practicando TypeScript en [DevTools](https://github.com/Crismurua/DevTools) 
   
 
-- 🌱 Actualmente estoy aprendiendo Python  
+- 🌱 Actualmente estoy perfeccionando Django REST Framework
   
 
 - ❓ Preguntame todo lo relacionado con el desarrollo Full Stack  
