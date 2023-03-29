@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crismurua)](https://www.linkedin.com/in/crismurua) [![Gmail Badge](https://img.shields.io/badge/-cristianmurua1995-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianmurua1995@gmail.com)](mailto:cristianmurua1995@gmail.com) 
 
 
- 🔭 Actualmente estoy practicando TypeScript en [DevTools](https://github.com/Crismurua/DevTools) 
+ 🔭 Actualmente estoy practicando TypeScript en [E-commerce-DRF-React](https://github.com/Crismurua/e-commerce-DRF-REACT) 
   
 
 - 🌱 Actualmente estoy perfeccionando Django REST Framework
